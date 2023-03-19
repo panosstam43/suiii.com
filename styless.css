@@ -1,0 +1,35 @@
+h1{
+    color:crimson;
+
+    border-style: outset;
+    border-width: 5px;
+    border-color: deeppink;
+    border-radius: 10px;
+    padding:5px
+}
+
+body{
+
+    background-color: darkgoldenrod;
+
+    border-style:groove;
+    border-width: 20px;
+    border-color:darkolivegreen;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+
+}
+
+li{
+    color:rgb(219, 0, 0);
+    align-self: center;
+    
+    
+}
+
+a{
+    color:rgb(6, 190, 190);
+}
+
+
